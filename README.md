@@ -10,7 +10,7 @@ Pandas DataFrames structured allowing to build Matplotlib scattered charts and b
 
 A scattered plot built to show how the tumor volume changes over time for each treatment.
 
-![](Pymaceuticals/tumor_change.png)
+![](Pymaceuticals/tumor_volume_mean.png)
 
 
 The change of metastatic (cancer spreading) sites over time for each treatment.
